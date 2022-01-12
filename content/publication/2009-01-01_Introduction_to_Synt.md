@@ -1,7 +1,7 @@
 +++
 title = "Introduction to Synthetic Biology"
 date = "2009-01-01"
-authors = [admin, "Emilio Navarro", "Pedro Fernández de Córdoba", "Javier F Urchueguía"]
+authors = ["admin", "Emilio Navarro", "Pedro Fernández de Córdoba", "Javier F Urchueguía"]
 publication_types = ["5"]
 publication = "PoliCLICK"
 publication_short = "PoliCLICK"
