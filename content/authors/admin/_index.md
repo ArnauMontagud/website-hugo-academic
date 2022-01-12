@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Arnau Montagud
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Researcher on Systems Biology / Data Science  / Models
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Barcelona Supercomputing Center, Spain
+  url: https://www.bsc.es/discover-bsc/organisation/scientific-structure/computational-biology/team-people
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Systems Biology
+- Multiscale Models
+- Logical Models
+- Data deconvolution
+- Data integration
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Applied Mathematics
+    institution: Universitat Politècnica de València
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Cell Biology
+    institution: Universitat de València
+    year: 2007
+  - course: BSc in Biology
+    institution: Universitat de València
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +44,43 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:arnau.montagud@gmail.com'
+
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ArnauMontagud
+
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=IYpowdAAAAAJ&hl=en
+
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0002-7696-1241
+
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Arnau_Montagud
+
+- icon: researcherid
+  icon_pack: ai
+  link: http://www.researcherid.com/rid/B-8001-2008
+
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/author/1351424/arnau-montagud
+
+- icon: figshare
+  icon_pack: ai
+  link: https://figshare.com/authors/Arnau_Montagud/645477
+
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/arnaumontagud
+
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ArnauMontagud
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +96,9 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I completed my BSc in Biology and MSc in Cell Biology by the University of Valencia. During my last undergrad year I participated in synthetic biology’s iGEM competition where I dove in the use of models in Biology, which pushed me to pursue a PhD in the Department of Applied Mathematics in the Technical University of Valencia.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research on Metabolic Engineering of hydrogen in cyanobacteria led me to be visiting researcher at Uppsala University, Denmark Technical University and EMBL Heidelberg. After graduating, I decided to apply modelling techniques to Cancer using logical models, agent-based models and data deconvolution and integration, first at Institut Curie's Systems Biology department and currently at BSC's Life Sciences department.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Montagud_Arnau_20200109.pdf" "newtab" >}}resumé{{< /staticref >}}.
