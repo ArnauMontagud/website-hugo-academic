@@ -2,7 +2,7 @@
 title: Flux Balance Analysis metabolic modelling
 summary: .
 tags:
-- Metabolism
+- metabolism
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
