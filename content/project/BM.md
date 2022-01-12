@@ -3,7 +3,8 @@ title: Boolean modelling
 date: 2016-04-27T00:00:00Z
 summary: ""
 tags:
-  - BM
+  - modelling
+
 external_link: ""
 slides: ""
 image:

@@ -3,6 +3,7 @@ title: Flux Balance Analysis metabolic modelling
 summary:
 tags:
 - metabolism
+- modelling
 date: 2022-01-12T00:00:00Z
 
 # Optional external URL for project (replaces project detail page).

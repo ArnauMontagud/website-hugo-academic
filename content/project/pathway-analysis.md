@@ -2,7 +2,8 @@
 title: Pathway-based analysis
 summary:
 tags:
-- pathway-analysis
+- data-analysis
+
 date: 2022-01-12T00:00:00Z
 
 # Optional external URL for project (replaces project detail page).

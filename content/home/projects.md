@@ -27,18 +27,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Synthetic Biology
-    tag: "synthetic-biology"
+  - name: Modelling
+    tag: "modelling"
   - name: Metabolism
     tag: "metabolism"
-  - name: Pathway analysis
-    tag: "pathway-analysis"
-  - name: Boolean modelling
-    tag: "BM"
-  - name: Multiscale modelling
-    tag: "MultiscaleModelling"
+  - name: Data analysis
+    tag: "data-analysis"
   - name: COVID
     tag: "COVID"
+  - name: Synthetic Biology
+    tag: "synthetic-biology"
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -14,7 +14,7 @@ organizations:
   url: https://www.bsc.es/discover-bsc/organisation/scientific-structure/computational-biology/team-people
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Boolean and multiscale modelling, data analyses and integration.
+bio: My research interests include Boolean and multiscale modelling, data analyses and data integration.
 
 # Interests to show in About widget
 interests:
