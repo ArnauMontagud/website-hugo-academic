@@ -1,7 +1,7 @@
 +++
 title = "Optimizing dosage-specific treatments in a multi-scale model of a tumor growth"
 date = "2021-12-19"
-authors = ["Miguel Ponce-de-Leon", "Arnau Montagud", "Charilaos Akasiadis", "Janina Schreiber", "Thaleia Ntiniakou", "Alfonso Valencia"]
+authors = ["Miguel Ponce-de-Leon", "admin", "Charilaos Akasiadis", "Janina Schreiber", "Thaleia Ntiniakou", "Alfonso Valencia"]
 publication_types = ["2"]
 publication = "bioRxiv, _pp. 2021.12.17.473136_, https://doi.org/10.1101/2021.12.17.473136"
 publication_short = "bioRxiv, _pp. 2021.12.17.473136_, https://doi.org/10.1101/2021.12.17.473136"

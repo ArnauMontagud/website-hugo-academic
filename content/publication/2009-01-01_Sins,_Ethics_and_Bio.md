@@ -1,7 +1,7 @@
 +++
 title = "Sins, Ethics and Biology"
 date = "2009-01-01"
-authors = ["Carles Palanca", "Juny Crespo", "Cristina Vilanova", "Guillem Marco", "Sara Rivera", "Angeles Hueso", "Miguel Pitarch", "Eduardo Otero", "Jerzy Szablowski", "Arnau Montagud", "Emilio Navarro", "Manuel Porcar"]
+authors = ["Carles Palanca", "Juny Crespo", "Cristina Vilanova", "Guillem Marco", "Sara Rivera", "Angeles Hueso", "Miguel Pitarch", "Eduardo Otero", "Jerzy Szablowski", "admin", "Emilio Navarro", "Manuel Porcar"]
 publication_types = ["5"]
 publication = "Valencia iGEM team"
 publication_short = "Valencia iGEM team"

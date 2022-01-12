@@ -1,7 +1,7 @@
 +++
 title = "Systems biology at the giga-scale: Large multiscale models of complex, heterogeneous multicellular systems"
 date = "2021-11-01"
-authors = ["Arnau Montagud", "Miguel Ponce-de-Leon", "Alfonso Valencia"]
+authors = ["admin", "Miguel Ponce-de-Leon", "Alfonso Valencia"]
 publication_types = ["2"]
 publication = "Current Opinion in Systems Biology, (28), _pp. 100385_, https://doi.org/10.1016/j.coisb.2021.100385"
 publication_short = "Current Opinion in Systems Biology, (28), _pp. 100385_, https://doi.org/10.1016/j.coisb.2021.100385"

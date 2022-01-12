@@ -1,7 +1,7 @@
 +++
 title = "Flux coupling and transcriptional regulation within the metabolic network of the photosynthetic bacterium Synechocystis sp. PCC6803"
 date = "2011-01-01"
-authors = ["Arnau Montagud", "Aleksej Zelezniak", "Emilio Navarro", "Pedro Fernández de Córdoba", "Javier F Urchueguía", "Kiran Raosaheb Patil"]
+authors = ["admin", "Aleksej Zelezniak", "Emilio Navarro", "Pedro Fernández de Córdoba", "Javier F Urchueguía", "Kiran Raosaheb Patil"]
 publication_types = ["2"]
 publication = "Biotechnology Journal, (6), 3, _pp. 330--342_, https://doi.org/10.1002/biot.201000109"
 publication_short = "Biotechnology Journal, (6), 3, _pp. 330--342_, https://doi.org/10.1002/biot.201000109"

@@ -1,7 +1,7 @@
 +++
 title = "BioFVM-X: An MPI+OpenMP 3-D Simulator for Biological Systems"
 date = "2021-09-13"
-authors = ["Gaurav Saxena", "Miguel Ponce-de-Leon", "Arnau Montagud", "David Vicente Dorca", "Alfonso Valencia"]
+authors = ["Gaurav Saxena", "Miguel Ponce-de-Leon", "admin", "David Vicente Dorca", "Alfonso Valencia"]
 publication_types = ["1"]
 publication = "Computational Methods in Systems Biology, _pp. 266-279_, https://doi.org/10.1007/978-3-030-85633-5_18"
 publication_short = "Computational Methods in Systems Biology, _pp. 266-279_, https://doi.org/10.1007/978-3-030-85633-5_18"

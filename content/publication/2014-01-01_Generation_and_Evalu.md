@@ -1,7 +1,7 @@
 +++
 title = "Generation and Evaluation of a Genome-Scale Metabolic Network Model of Synechococcus elongatus PCC7942"
 date = "2014-01-01"
-authors = ["Julián Triana", "Arnau Montagud", "Maria Siurana", "David Fuente", "Arantxa Urchueguía", "Daniel Gamermann", "Javier Torres", "Jose Tena", "Pedro Fernández de Córdoba", "Javier F Urchueguía"]
+authors = ["Julián Triana", "admin", "Maria Siurana", "David Fuente", "Arantxa Urchueguía", "Daniel Gamermann", "Javier Torres", "Jose Tena", "Pedro Fernández de Córdoba", "Javier F Urchueguía"]
 publication_types = ["2"]
 publication = "Metabolites, (4), 3, _pp. 680--698_, https://doi.org/10.3390/metabo4030680"
 publication_short = "Metabolites, (4), 3, _pp. 680--698_, https://doi.org/10.3390/metabo4030680"

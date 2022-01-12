@@ -1,7 +1,7 @@
 +++
 title = "Personalization of Logical Models With Multi-Omics Data Allows Clinical Stratification of Patients"
 date = "2019-01-24"
-authors = ["Jonas Béal", "Arnau Montagud", "Pauline Traynard", "Emmanuel Barillot", "Laurence Calzone"]
+authors = ["Jonas Béal", "admin", "Pauline Traynard", "Emmanuel Barillot", "Laurence Calzone"]
 publication_types = ["2"]
 publication = "Frontiers in Physiology, (9), _pp. 1965_, https://doi.org/10.3389/fphys.2018.01965"
 publication_short = "Front. Physiol., (9), _pp. 1965_, https://doi.org/10.3389/fphys.2018.01965"

@@ -1,7 +1,7 @@
 +++
 title = "Parallel Model Exploration for Tumor Treatment Simulations"
 date = "2021-03-25"
-authors = ["Charilaos Akasiadis", "Miguel Ponce-de-Leon", "Arnau Montagud", "Evangelos Michelioudakis", "Alexia Atsidakou", "Elias Alevizos", "Alexander Artikis", "Alfonso Valencia", "Georgios Paliouras"]
+authors = ["Charilaos Akasiadis", "Miguel Ponce-de-Leon", "admin", "Evangelos Michelioudakis", "Alexia Atsidakou", "Elias Alevizos", "Alexander Artikis", "Alfonso Valencia", "Georgios Paliouras"]
 publication_types = ["2"]
 publication = "arXiv, _pp. 2103.14132 [cs, q-bio]_"
 publication_short = "arXiv, _pp. 2103.14132 [cs, q-bio]_"

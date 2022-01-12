@@ -1,7 +1,7 @@
 +++
 title = "Artificial Intelligence–Aided Precision Medicine for COVID-19: Strategic Areas of Research and Development"
 date = "2021-01-01"
-authors = ["Enrico Santus", "Nicola Marino", "Davide Cirillo", "Emmanuele Chersoni", "Arnau Montagud", "Antonella Santuccione Chadha", "Alfonso Valencia", "Kevin Hughes", "Charlotta Lindvall"]
+authors = ["Enrico Santus", "Nicola Marino", "Davide Cirillo", "Emmanuele Chersoni", "admin", "Antonella Santuccione Chadha", "Alfonso Valencia", "Kevin Hughes", "Charlotta Lindvall"]
 publication_types = ["2"]
 publication = "Journal of Medical Internet Research, (23), 3, _pp. e22453_, https://doi.org/10.2196/22453"
 publication_short = "Journal of Medical Internet Research, (23), 3, _pp. e22453_, https://doi.org/10.2196/22453"

@@ -1,7 +1,7 @@
 +++
 title = "Conceptual and computational framework for logical modelling of biological networks deregulated in diseases"
 date = "2017-01-01"
-authors = ["Arnau Montagud", "Pauline Traynard", "Loredana Martignetti", "Eric Bonnet", "Emmanuel Barillot", "Andrei Zinovyev", "Laurence Calzone"]
+authors = ["admin", "Pauline Traynard", "Loredana Martignetti", "Eric Bonnet", "Emmanuel Barillot", "Andrei Zinovyev", "Laurence Calzone"]
 publication_types = ["2"]
 publication = "Briefings in Bioinformatics, _bbx163_, https://doi.org/10.1093/bib/bbx163"
 publication_short = "Briefings in Bioinformatics, _bbx163_, https://doi.org/10.1093/bib/bbx163"

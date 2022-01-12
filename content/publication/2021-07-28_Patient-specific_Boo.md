@@ -1,7 +1,7 @@
 +++
 title = "Patient-specific Boolean models of signaling networks guide personalized treatments"
 date = "2021-07-28"
-authors = ["Arnau Montagud", "Jonas Beal", "Luis Tobalina", "Pauline Traynard", "Vigneshwari Subramanian", "Bence Szalai", "Robert Alfoldi", "Laszlo Puskas", "Alfonso Valencia", "Emmanuel Barillot", "Julio Saez-Rodriguez", "Laurence Calzone"]
+authors = ["admin", "Jonas Beal", "Luis Tobalina", "Pauline Traynard", "Vigneshwari Subramanian", "Bence Szalai", "Robert Alfoldi", "Laszlo Puskas", "Alfonso Valencia", "Emmanuel Barillot", "Julio Saez-Rodriguez", "Laurence Calzone"]
 publication_types = ["2"]
 publication = "bioRxiv, _pp. 2021.07.28.454126_, https://doi.org/10.1101/2021.07.28.454126"
 publication_short = "bioRxiv, _pp. 2021.07.28.454126_, https://doi.org/10.1101/2021.07.28.454126"

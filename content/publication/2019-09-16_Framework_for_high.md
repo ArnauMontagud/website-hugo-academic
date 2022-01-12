@@ -1,7 +1,7 @@
 +++
 title = "Framework for high-throughput personalization of logical models using multi-omics data"
 date = "2019-09-16"
-authors = ["Jonas Béal &", "Arnau Montagud &", "Pauline Traynard", "Emmanuel Barillot", "Laurence Calzone"]
+authors = ["Jonas Béal &", "admin &", "Pauline Traynard", "Emmanuel Barillot", "Laurence Calzone"]
 publication_types = ["6"]
 publication = "Chapman and Hall/CRC, https://www.crcpress.com/Computational-Systems-Biology-Approaches-in-Cancer-Research/Kuperstein-Barillot/p/book/9780367344214"
 publication_short = "Chapman and Hall/CRC"

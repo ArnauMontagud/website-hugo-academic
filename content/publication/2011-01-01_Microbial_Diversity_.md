@@ -1,7 +1,7 @@
 +++
 title = "Microbial Diversity in the Midguts of Field and Lab-Reared Populations of the European Corn Borer Ostrinia nubilalis"
 date = "2011-01-01"
-authors = ["Eugeni Belda", "Laia Pedrola", "Juli Peretó", "Juan F Martínez-Blanch", "Arnau Montagud", "Emilio Navarro", "Javier F Urchueguía", "Daniel Ramón", "Andrés Moya", "Manuel Porcar"]
+authors = ["Eugeni Belda", "Laia Pedrola", "Juli Peretó", "Juan F Martínez-Blanch", "admin", "Emilio Navarro", "Javier F Urchueguía", "Daniel Ramón", "Andrés Moya", "Manuel Porcar"]
 publication_types = ["2"]
 publication = "PLoS ONE, (6), 6, _pp. e21751_, https://doi.org/10.1371/journal.pone.0021751"
 publication_short = "PLoS ONE, (6), 6, _pp. e21751_, https://doi.org/10.1371/journal.pone.0021751"

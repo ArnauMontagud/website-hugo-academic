@@ -1,7 +1,7 @@
 +++
 title = "Yeast cultures with UCP1 uncoupling activity as a heating device"
 date = "2009-01-01"
-authors = ["Joaquina Delás", "Meritxell Notari", "Jaume Forés", "Joaquín Pechuan", "Manuel Porcar", "Emilio Navarro", "Arnau Montagud", "Minerva Baguena", "Juli Peretó", "Pedro Fernández de Córdoba", "M Mar González-Barroso", "Eduardo Rial", "Andrés Moya", "Javier F Urchueguía"]
+authors = ["Joaquina Delás", "Meritxell Notari", "Jaume Forés", "Joaquín Pechuan", "Manuel Porcar", "Emilio Navarro", "admin", "Minerva Baguena", "Juli Peretó", "Pedro Fernández de Córdoba", "M Mar González-Barroso", "Eduardo Rial", "Andrés Moya", "Javier F Urchueguía"]
 publication_types = ["2"]
 publication = "New Biotechnology, (26), 6, _pp. 300--6_, https://doi.org/10.1016/j.nbt.2009.09.005"
 publication_short = "New Biotechnology, (26), 6, _pp. 300--6_, https://doi.org/10.1016/j.nbt.2009.09.005"

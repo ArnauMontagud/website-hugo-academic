@@ -1,7 +1,7 @@
 +++
 title = "Desarrollo de una plataforma computacional para el modelado metabólico de un microorganismo"
 date = "2011-01-01"
-authors = ["Raymari Reyes", "Jorge Garrido", "Ramón A Jaime", "Vinelia Vazquez", "Julián Triana", "Lizzael Villar", "Juan C Castro", "Pedro Fernández de Córdoba", "Javier F Urchueguía", "Emilio Navarro", "Arnau Montagud"]
+authors = ["Raymari Reyes", "Jorge Garrido", "Ramón A Jaime", "Vinelia Vazquez", "Julián Triana", "Lizzael Villar", "Juan C Castro", "Pedro Fernández de Córdoba", "Javier F Urchueguía", "Emilio Navarro", "admin"]
 publication_types = ["2"]
 publication = "Nereis. Revista Iberoamericana de Métodos, Modelización y Simulación Interdisciplinar., (3), _pp. 25--31_"
 publication_short = "Nereis. Revista Iberoamericana de Métodos, Modelización y Simulación Interdisciplinar., (3), _pp. 25--31_"

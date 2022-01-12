@@ -1,7 +1,7 @@
 +++
 title = "Modelling and analysis of biological systems to obtain biofuels"
 date = "2013-01-01"
-authors = ["Arnau Montagud"]
+authors = ["admin"]
 publication_types = ["5"]
 publication = "LAP Lambert Academic Publishing"
 publication_short = "LAP Lambert Academic Publishing"

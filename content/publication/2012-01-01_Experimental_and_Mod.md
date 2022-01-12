@@ -1,7 +1,7 @@
 +++
 title = "Experimental and Modeling Analysis of Synechocystis sp. PCC6803 Growth"
 date = "2012-01-01"
-authors = ["Miguel Lopo", "Arnau Montagud", "Emilio Navarro", "Isabel Cunha", "Andrea Zille", "Pedro Fernández de Córdoba", "Pedro Moradas-Ferreira", "Paula Tamagnini", "Javier F Urchueguía"]
+authors = ["Miguel Lopo", "admin", "Emilio Navarro", "Isabel Cunha", "Andrea Zille", "Pedro Fernández de Córdoba", "Pedro Moradas-Ferreira", "Paula Tamagnini", "Javier F Urchueguía"]
 publication_types = ["2"]
 publication = "Journal of molecular microbiology and biotechnology, (22), 2, _pp. 71--82_, https://doi.org/10.1159/000336850"
 publication_short = "Journal of molecular microbiology and biotechnology, (22), 2, _pp. 71--82_, https://doi.org/10.1159/000336850"
