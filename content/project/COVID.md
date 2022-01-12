@@ -1,8 +1,8 @@
 ---
-title: Flux Balance Analysis metabolic modelling
+title: COVID studies
 summary:
 tags:
-- metabolism
+- COVID
 date: 2022-01-12T00:00:00Z
 
 # Optional external URL for project (replaces project detail page).
