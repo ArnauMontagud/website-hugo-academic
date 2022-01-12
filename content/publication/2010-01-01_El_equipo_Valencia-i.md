@@ -8,7 +8,7 @@ publication_short = "Matematicalia, (6), 3, _pp. 1--5_"
 abstract = "NA"
 abstract_short = ""
 image_preview = ""
-selected = false
+featured = false
 projects = ["synthetic-biology"]
 tags = ["modelling"]
 url_pdf = "http://www.matematicalia.net/index.php?option=com_wrapper&Itemid=569"
