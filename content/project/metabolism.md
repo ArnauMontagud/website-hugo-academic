@@ -3,7 +3,7 @@ title: Flux Balance Analysis metabolic modelling
 summary:
 tags:
 - metabolism
-date: "2016-04-27T00:00:00Z"
+date: 2022-01-12T00:00:00Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -28,5 +28,7 @@ external_link: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+image:
+  filename: bubbles.jpg
 ---
 
