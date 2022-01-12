@@ -38,6 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-Access the complete [list of publications](./publication/).
-Quickly discover relevant content by [filtering publications](./publication/).
+Access the complete [list of publications](./publication/) and quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}

@@ -25,12 +25,12 @@ twitter: ''
 email: arnau.montagud@gmail.com
 # phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  # street: 450 Serra Mall
+  city: Barcelona
+  region:
+  postcode: '08034'
+  country: Spain
+  country_code: ES
 # coordinates:
 #   latitude: '37.4275'
 #   longitude: '-122.1697'
@@ -70,8 +70,8 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: 'Mon, 02 Jan 2006'
+time_format: '15:04 MST'
 address_format: en-us
 
 # Site features
