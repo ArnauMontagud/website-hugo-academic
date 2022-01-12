@@ -43,7 +43,7 @@ experience:
     company_logo: LogosCurie400px
     location: Paris, FR
     date_start: '2014-01-13'
-    date_end: ' 2018-12-30'
+    date_end: '2018-12-31'
     description: 
     # Taught electronic engineering and researched semiconductor physics.
 
@@ -53,7 +53,7 @@ experience:
     company_logo: UPV
     location: València, ES
     date_start: '2012-05-01'
-    date_end: '  2014-01-13'
+    date_end: '2014-01-13'
     description: 
 
   - title: Postdoctoral Fellow (Instituto Universitario de Medio Ambiente y Ciencia Marina)
@@ -62,7 +62,7 @@ experience:
     company_logo: UCV
     location: València, ES
     date_start: '2012-08-01'
-    date_end: '   2012-11-30'
+    date_end: '2012-11-30'
     description: 
 
 design:
