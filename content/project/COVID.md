@@ -1,6 +1,6 @@
 ---
 title: Flux Balance Analysis metabolic modelling
-summary: .
+summary:
 tags:
 - metabolism
 date: "2016-04-27T00:00:00Z"

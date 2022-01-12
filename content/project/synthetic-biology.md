@@ -1,6 +1,6 @@
 ---
 title: Synthetic Biology
-summary: .
+summary:
 tags:
 - synthetic-biology
 date: "2016-04-27T00:00:00Z"

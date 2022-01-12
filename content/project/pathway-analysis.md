@@ -1,6 +1,6 @@
 ---
 title: Pathway-based analysis
-summary: .
+summary:
 tags:
 - pathway-analysis
 date: "2016-04-27T00:00:00Z"
