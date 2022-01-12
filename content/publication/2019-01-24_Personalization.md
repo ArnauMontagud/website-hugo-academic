@@ -21,8 +21,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 math = true
-url_custom = [
-{name = "Twitter thread", url = "https://twitter.com/ArnauMontagud/status/1088444769573888003"}]
+links = [{name = "Twitter thread", url = "https://twitter.com/ArnauMontagud/status/1088444769573888003"}]
 
 highlight = true
 [header]

@@ -13,6 +13,7 @@ projects = ["BM"]
 tags = ["modelling"]
 url_pdf = "https://www.biorxiv.org/content/10.1101/2021.07.28.454126v1"
 url_preprint = "https://www.biorxiv.org/content/10.1101/2021.07.28.454126v1"
+links = [{name="Twitter thread",url="https://twitter.com/ArnauMontagud/status/1421101936695078914"}]
 url_code = ""
 url_dataset = ""
 url_project = ""

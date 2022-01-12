@@ -12,6 +12,7 @@ featured = true
 projects = ["MultiscaleModelling"]
 tags = ["modelling"]
 url_pdf = "https://www.sciencedirect.com/science/article/pii/S2452310021000792"
+links = [{name="Twitter thread",url="https://twitter.com/ArnauMontagud/status/1442504109668528129"}]
 url_preprint = ""
 url_code = ""
 url_dataset = ""
