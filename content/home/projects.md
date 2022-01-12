@@ -28,15 +28,15 @@ content:
   - name: All
     tag: '*'
   - name: Synthetic Biology
-    tag: synthetic-biology
+    tag: "synthetic-biology"
   - name: Metabolism
-    tag: metabolism
+    tag: "metabolism"
   - name: Pathway analysis
-    tag: pathway-analysis
+    tag: "pathway-analysis"
   - name: Boolean modelling
-    tag: BM
+    tag: "BM"
   - name: Multiscale modelling
-    tag: MultiscaleModelling
+    tag: "MultiscaleModelling"
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
