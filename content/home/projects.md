@@ -37,6 +37,8 @@ content:
     tag: "BM"
   - name: Multiscale modelling
     tag: "MultiscaleModelling"
+  - name: COVID
+    tag: "COVID"
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
