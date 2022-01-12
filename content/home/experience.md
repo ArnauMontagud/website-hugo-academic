@@ -43,7 +43,7 @@ experience:
     company_logo: LogosCurie400px
     location: Paris, FR
     date_start: '2014-01-13'
-    date_end: ' 2018-12-31'
+    date_end: ' 2018-12-30'
     description: 
     # Taught electronic engineering and researched semiconductor physics.
 
