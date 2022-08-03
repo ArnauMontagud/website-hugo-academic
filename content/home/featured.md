@@ -36,5 +36,5 @@ design:
 ---
 
 {{% callout note %}}
-Access the complete [list of publications](https://arnaumontagud.netlify.app/#publications).
+Access the [list of publications](https://arnaumontagud.netlify.app/#publications).
 {{% /callout %}}
