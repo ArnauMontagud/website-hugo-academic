@@ -34,3 +34,7 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+
+{{% callout note %}}
+Access the complete [list of publications](https://arnaumontagud.netlify.app/#publications).
+{{% /callout %}}
