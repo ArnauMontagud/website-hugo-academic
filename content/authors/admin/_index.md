@@ -64,7 +64,7 @@ social:
 
 - icon: researcherid
   icon_pack: ai
-  link: http://www.researcherid.com/rid/B-8001-2008
+  link: https://www.webofscience.com/wos/author/rid/B-8001-2008
 
 - icon: publons
   icon_pack: ai
