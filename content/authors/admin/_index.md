@@ -82,6 +82,10 @@ social:
   icon_pack: fab
   link: https://twitter.com/ArnauMontagud
 
+- icon: mastodon
+  icon_pack: fab
+  link: https://fediscience.org/@arnaumontagud
+
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
