@@ -102,7 +102,7 @@ highlight_name: true
 
 My goal as a researcher is to understand the mechanisms behind diseases by using personalised models in biomedical and biotechnological projects. To do this, I lean on tools from mathematics and computer science to solve interesting problems in biology. 
 
-Particularly, I am interested in combining multi-omics patient data to build multiscale models of cellular behaviours that merge intracellular models, agents for cells and a complex environment. Once built, these models need to be optimised to run efficiently in high-performance computers to have real-sized simulations, scaling-up the scope of projects.
+I am interested in combining multi-omics patient data to build multiscale models of cellular behaviours that merge intracellular models, agents for cells and a complex environment. Once built, these models need to be optimised to run efficiently in high-performance computers to have real-sized simulations, scaling-up the scope of projects.
 
 If these subjects resonate with your interests, feel free to reach out!
 
