@@ -43,7 +43,7 @@ experience:
     company_logo: BSC-blue
     location: Barcelona, ES
     date_start: '2019-01-01'
-    date_end: '2023-31-12'
+    date_end: '2023-12-31'
     description:
     # description: |2-
     #     Responsibilities include:
