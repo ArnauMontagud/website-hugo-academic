@@ -1,6 +1,6 @@
 +++
 title = "Parallel Model Exploration for Tumor Treatment Simulations"
-date = "2022-03-03"
+date = "2022-08-03"
 authors = ["Charilaos Akasiadis", "Miguel Ponce-de-Leon", "admin", "Evangelos Michelioudakis", "Alexia Atsidakou", "Elias Alevizos", "Alexander Artikis", "Alfonso Valencia", "Georgios Paliouras"]
 publication_types = ["2"]
 publication = "Computational Intelligence. 2022; _pp. 1-23_, https://doi.org/10.1111/coin.12515"

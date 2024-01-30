@@ -6,12 +6,12 @@ title: Arnau Montagud
 superuser: true
 
 # Role/position/tagline
-role: Researcher on Systems Biology / Data Science  / Models
+role: Researcher on Computational Systems Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Barcelona Supercomputing Center, Spain
-  url: https://www.bsc.es/discover-bsc/organisation/scientific-structure/computational-biology/team-people
+- name: Institute for Integrative Systems Biology (I2SysBio, CSIC), Spain
+  url: https://www.bsc.es/montagud-arnau
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Boolean and multiscale modelling, data analyses and data integration.
@@ -100,9 +100,11 @@ email: ""
 highlight_name: true
 ---
 
-I completed my BSc in Biology and MSc in Cell Biology by the University of Valencia. During my last undergrad year I participated in synthetic biology’s iGEM competition where I dove in the use of models in Biology, which pushed me to pursue a PhD in the Department of Applied Mathematics in the Technical University of Valencia.
+My goal as a researcher is to understand the mechanisms behind diseases by using personalised models in biomedical and biotechnological projects. To do this, I lean on tools from mathematics and computer science to solve interesting problems in biology. 
 
-My research on Metabolic Engineering of hydrogen in cyanobacteria led me to be visiting researcher at Uppsala University, Denmark Technical University and EMBL Heidelberg. After graduating, I decided to apply modelling techniques to Cancer using logical models, agent-based models and data deconvolution and integration, first at Institut Curie's Systems Biology department and currently at BSC's Life Sciences department.
+Particularly, I am interested in combining multi-omics patient data to build multiscale models of cellular behaviours that merge intracellular models, agents for cells and a complex environment. Once built, these models need to be optimised to run efficiently in high-performance computers to have real-sized simulations, scaling-up the scope of projects.
+
+If these subjects resonate with your interests, feel free to reach out!
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Montagud_Arnau_20200109.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Montagud_Arnau_20240130.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -1,6 +1,6 @@
 +++
 title = "Patient-specific Boolean models of signaling networks guide personalized treatments"
-date = "2021-07-28"
+date = "2022-02-15"
 authors = ["admin", "Jonas Beal", "Luis Tobalina", "Pauline Traynard", "Vigneshwari Subramanian", "Bence Szalai", "Robert Alfoldi", "Laszlo Puskas", "Alfonso Valencia", "Emmanuel Barillot", "Julio Saez-Rodriguez", "Laurence Calzone"]
 publication_types = ["2"]
 publication = " eLife 11:_e72626_, https://doi.org/10.7554/eLife.72626"

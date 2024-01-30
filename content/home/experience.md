@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title:  Senior Researcher (Life Sciences Department)
-    company: Barcelona Supercomputing Center
+  - title:  Distinguished Researcher, Principal Investigator
+    company: Institute for Integrative Systems Biology (I2SysBio, CSIC)
     company_url: ''
-    company_logo: BSC-blue
-    location: Barcelona, ES
-    date_start: '2019-01-01'
+    company_logo: csic
+    location: València, ES
+    date_start: '2024-01-01'
     date_end: ''
     description:
     # description: |2-
@@ -36,7 +36,22 @@ experience:
     #     * Analysing
     #     * Modelling
     #     * Deploying
+
+  - title:  Senior Researcher (Life Sciences Department)
+    company: Barcelona Supercomputing Center
+    company_url: ''
+    company_logo: BSC-blue
+    location: Barcelona, ES
+    date_start: '2019-01-01'
+    date_end: '2023-31-12'
+    description:
+    # description: |2-
+    #     Responsibilities include:
         
+    #     * Analysing
+    #     * Modelling
+    #     * Deploying
+
   - title: Postdoctoral Researcher (U900 - Bioinformatics and Computational Systems Biology of Cancer)
     company: Institut Curie
     company_url: ''
