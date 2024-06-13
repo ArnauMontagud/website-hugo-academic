@@ -11,7 +11,7 @@ role: Researcher on Computational Systems Biology
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Institute for Integrative Systems Biology (I2SysBio, CSIC), Spain
-  url: https://www.bsc.es/montagud-arnau
+  url: https://www.uv.es/institute-integrative-systems-biology-i2sysbio/en/institute-integrative-systems-biology-i-sysbio.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Boolean and multiscale modelling, data analyses and data integration.
