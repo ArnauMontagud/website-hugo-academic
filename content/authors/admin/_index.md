@@ -78,7 +78,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/arnaumontagud
 
-- icon: brands/bluesky
+- icon: "brands/bluesky"
   # icon_pack: fab
   link: https://bsky.app/profile/arnaumontagud.bsky.social
 
