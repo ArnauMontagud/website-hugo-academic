@@ -86,7 +86,7 @@ social:
   icon_pack: fab
   link: https://fediscience.org/@arnaumontagud
 
-  - icon: twitter
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/ArnauMontagud
 
