@@ -78,13 +78,17 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/arnaumontagud
 
-- icon: twitter
+- icon: bluesky
   icon_pack: fab
-  link: https://twitter.com/ArnauMontagud
+  link: https://bsky.app/profile/arnaumontagud.bsky.social
 
 - icon: mastodon
   icon_pack: fab
   link: https://fediscience.org/@arnaumontagud
+
+  - icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ArnauMontagud
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
